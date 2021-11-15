@@ -32,4 +32,10 @@ THEN I find a concise, descriptive title
 3- Use the website before it has been deployed.  
 
 ### update for the future 
-1- The website needs to be supported to different screen size 
+The website needs to be supported to different screen size 
+  
+  ## Github repo link 
+git@github.com:Yasir19/Horiseon.git
+
+## The Website Link 
+https://yasir19.github.io/Horiseon/
