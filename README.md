@@ -35,7 +35,11 @@ THEN I find a concise, descriptive title
 The website needs to be supported to different screen size 
   
   ## Github repo link 
+https://github.com/Yasir19/Horiseon
+  
+  ##code linke
 git@github.com:Yasir19/Horiseon.git
+  
 
 ## The Website Link 
 https://yasir19.github.io/Horiseon/
