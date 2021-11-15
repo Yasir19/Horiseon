@@ -34,10 +34,10 @@ THEN I find a concise, descriptive title
 ### update for the future 
 The website needs to be supported to different screen size 
   
-  ## Github repo link 
+## Github repo link 
 https://github.com/Yasir19/Horiseon
   
-  ##code link
+ ## code link
 git@github.com:Yasir19/Horiseon.git
   
 
